@@ -7,4 +7,4 @@ This repo hosts the content and code where we share our recent development in th
 
 ## Code of conduct
 
-We follow Rust Lang (https://www.rust-lang.org/policies/code-of-conduct)[code of conduct].
+<p>We follow Rust Lang (https://www.rust-lang.org/policies/code-of-conduct)[code of conduct]. <p>
