@@ -1,16 +1,16 @@
 +++
-title = "Hello World"
-description = "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date = 2021-05-01T09:19:42+00:00
-updated = 2021-05-01T09:19:42+00:00
+title = "Multi-Dimensional Cannabis Research Centre"
+description = "Multi-Dimensional Cannabis Research Centre at Kathmandu University has been established on January 23, 2022 for conducting reserach of Cannabis in Nepal"
+date = 2022-03-22T09:19:42+00:00
+updated = 2022-03-22T09:19:42+00:00
 draft = false
-template = "blog/page.html"
+template = "MCRC Blog/page.html"
 
 [taxonomies]
-authors = ["Rustaceans"]
+authors = ["Prateek"]
 
 [extra]
-lead = "This is the source code of the traditional <b>Hello World</b> program."
+lead = "This is the source code of the traditional <b>MCRC</b> program."
 +++
 
 ```rust
