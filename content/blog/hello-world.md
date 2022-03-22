@@ -10,7 +10,7 @@ template = "MCRC Blog/page.html"
 authors = ["Prateek"]
 
 [extra]
-lead = "This is the source code of the traditional <b>MCRC</b> program."
+lead = "This is a sample article that has been written to check how Github works for publishing about <b>MCRC</b> and the ongoing progresses ."
 +++
 
 ```rust
